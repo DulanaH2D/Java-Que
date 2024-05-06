@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class que5 {
+public class que005 {
     static boolean isTriangular(int num) {
         if (num < 0)
             return false;
