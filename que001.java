@@ -1,4 +1,4 @@
-public class que001 {
+public class Que001 {
 
     public static void main(String[] args) {
         System.out.println("ASCII Chart: ");
