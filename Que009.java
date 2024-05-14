@@ -20,7 +20,7 @@ public class Que009 {
             sc.close();
 
         } catch (Exception e) {
-            System.out.println("Please enter a decimal number.");
+            System.out.println("Invalid decimal number.");
 
         }
 
@@ -69,7 +69,7 @@ public class Que009 {
      * sc.close();
      * 
      * } catch (Exception e) {
-     * System.out.println("Please enter a decimal number.");
+     * System.out.println("Invalid decimal number.");
      * 
      * }
      * 
